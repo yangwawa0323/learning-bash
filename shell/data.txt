@@ -1,0 +1,5 @@
+milk	2009
+pen		NULL
+desk	9
+chair	NULL
+paper NULL
